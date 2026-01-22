@@ -1,0 +1,18 @@
+{
+  "valid": {
+    "name": "Max Mustermann",
+    "country": "AT",
+    "city": "Vienna",
+    "card": "4111111111111111",
+    "month": "01",
+    "year": "2030"
+  },
+    "invalid": {
+    "name": "",
+    "country": "AT",
+    "city": "Linz",
+    "card": "",
+    "month": "01",
+    "year": "2030"
+  }
+}

@@ -1,0 +1,102 @@
+2026-01-22 12:56:40 [INFO] utils.logging_config - Logging initialized -> artifacts/logs/test_run_20260122_115640.log
+2026-01-22 12:56:41 [INFO] test_add_product_to_cart - Open home: https://demoblaze.com/
+2026-01-22 12:56:42 [INFO] test_add_product_to_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:42 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:42 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:43 [INFO] test_add_product_to_cart - Open product: Samsung galaxy s6
+2026-01-22 12:56:43 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:44 [INFO] test_add_product_to_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:44 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:44 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:44 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:44 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:44 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:45 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:45 [INFO] test_add_product_to_cart - Pressing cart icon
+2026-01-22 12:56:45 [INFO] test_add_product_to_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:45 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:45 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:45 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:46 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:46 [WARNING] test_add_product_to_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:46 [INFO] test_remove_item_from_cart - Open home: https://demoblaze.com/
+2026-01-22 12:56:47 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:47 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:47 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:48 [INFO] test_remove_item_from_cart - Open product: Nokia lumia 1520
+2026-01-22 12:56:49 [WARNING] test_remove_item_from_cart - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:49 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:49 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:49 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:50 [INFO] test_remove_item_from_cart - Pressing cart icon
+2026-01-22 12:56:50 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:50 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:50 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:52 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:52 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:52 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:53 [INFO] test_checkout_valid - Open home: https://demoblaze.com/
+2026-01-22 12:56:53 [INFO] test_checkout_valid - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:53 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:53 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:54 [INFO] test_checkout_valid - Open product: Sony vaio i5
+2026-01-22 12:56:55 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:55 [INFO] test_checkout_valid - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:55 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:55 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:55 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:55 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:55 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:56 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:56 [INFO] test_checkout_valid - Opening Cart via URL
+2026-01-22 12:56:56 [INFO] test_checkout_valid - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:56:56 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:56 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:56:56 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:57 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:57 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:57 [INFO] test_checkout_valid - Filling: {'name': 'Max Mustermann', 'country': 'AT', 'city': 'Vienna', 'card': '4111111111111111', 'month': '01', 'year': '2030'}
+2026-01-22 12:56:57 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:58 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:58 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:56:59 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:00 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:00 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:01 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:02 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:02 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:03 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:04 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:05 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:06 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:07 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:08 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:10 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:11 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:12 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:13 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:15 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:16 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:18 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:19 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:21 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:22 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:24 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:26 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:27 [WARNING] test_checkout_valid - REQUEST FAILED: GET https://hls.demoblaze.com/about_demo_hls_2M00000.ts
+2026-01-22 12:57:27 [INFO] test_checkout_valid - BROWSER CONSOLE [error]: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. yt
+2026-01-22 12:57:28 [ERROR] test_checkout_valid - Saved screenshot -> artifacts/screenshots/test_checkout_valid_20260122_115727.png
+2026-01-22 12:57:28 [INFO] test_checkout_invalid_missing_required_fields - Open home: https://demoblaze.com/
+2026-01-22 12:57:29 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:57:29 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:57:29 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:57:30 [INFO] test_checkout_invalid_missing_required_fields - Open product: Sony vaio i5
+2026-01-22 12:57:30 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:57:30 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:57:30 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:57:31 [INFO] test_checkout_invalid_missing_required_fields - Opening Cart via URL
+2026-01-22 12:57:32 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:57:32 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:57:32 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:57:33 [INFO] test_checkout_invalid_missing_required_fields - Filling: {'name': '', 'country': 'AT', 'city': 'Linz', 'card': '', 'month': '01', 'year': '2030'}
+2026-01-22 12:57:33 [INFO] test_checkout_invalid_missing_required_fields - Submit: <Locator frame=<Frame name= url='https://demoblaze.com/cart.html'> selector='#name'>

@@ -1,0 +1,53 @@
+2026-01-22 12:54:45 [INFO] utils.logging_config - Logging initialized -> artifacts/logs/test_run_20260122_115445.log
+2026-01-22 12:54:46 [INFO] test_add_product_to_cart - Open home: https://demoblaze.com/
+2026-01-22 12:54:47 [INFO] test_add_product_to_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:47 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:47 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:48 [INFO] test_add_product_to_cart - Open product: Samsung galaxy s6
+2026-01-22 12:54:49 [INFO] test_add_product_to_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:49 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:49 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:50 [INFO] test_add_product_to_cart - Pressing cart icon
+2026-01-22 12:54:50 [INFO] test_add_product_to_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:50 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:50 [INFO] test_add_product_to_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:51 [INFO] test_remove_item_from_cart - Open home: https://demoblaze.com/
+2026-01-22 12:54:52 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:52 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:52 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:53 [INFO] test_remove_item_from_cart - Open product: Nokia lumia 1520
+2026-01-22 12:54:53 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:54 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:54 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:55 [INFO] test_remove_item_from_cart - Pressing cart icon
+2026-01-22 12:54:55 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:55 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:55 [INFO] test_remove_item_from_cart - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:57 [INFO] test_checkout_valid - Open home: https://demoblaze.com/
+2026-01-22 12:54:58 [INFO] test_checkout_valid - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:58 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:58 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:59 [INFO] test_checkout_valid - Open product: Sony vaio i5
+2026-01-22 12:54:59 [INFO] test_checkout_valid - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:54:59 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:54:59 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:01 [INFO] test_checkout_valid - Opening Cart via URL
+2026-01-22 12:55:01 [INFO] test_checkout_valid - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:55:01 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:01 [INFO] test_checkout_valid - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:02 [INFO] test_checkout_valid - Filling: {'name': 'Max Mustermann', 'country': 'AT', 'city': 'Vienna', 'card': '4111111111111111', 'month': '01', 'year': '2030'}
+2026-01-22 12:55:02 [INFO] test_checkout_valid - Submit: <Locator frame=<Frame name= url='https://demoblaze.com/cart.html'> selector='#name'>
+2026-01-22 12:55:03 [INFO] test_checkout_invalid_missing_required_fields - Open home: https://demoblaze.com/
+2026-01-22 12:55:04 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:55:04 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:04 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:05 [INFO] test_checkout_invalid_missing_required_fields - Open product: Sony vaio i5
+2026-01-22 12:55:05 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:55:05 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:05 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:06 [INFO] test_checkout_invalid_missing_required_fields - Opening Cart via URL
+2026-01-22 12:55:07 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [warning]: VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins!
+2026-01-22 12:55:07 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:07 [INFO] test_checkout_invalid_missing_required_fields - BROWSER CONSOLE [verbose]: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+2026-01-22 12:55:07 [INFO] test_checkout_invalid_missing_required_fields - Filling: {'name': '', 'country': 'AT', 'city': 'Linz', 'card': '', 'month': '01', 'year': '2030'}
+2026-01-22 12:55:07 [INFO] test_checkout_invalid_missing_required_fields - Submit: <Locator frame=<Frame name= url='https://demoblaze.com/cart.html'> selector='#name'>
