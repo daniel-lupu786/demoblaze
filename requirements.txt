@@ -1,0 +1,3 @@
+pytest==9.*
+playwright==1.*
+pytest-html==4.*
