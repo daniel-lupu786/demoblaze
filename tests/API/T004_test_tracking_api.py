@@ -19,7 +19,7 @@ def test_tracking_valid(api, tn):
     body = r.json()
     assert isinstance(body, dict)
 
-@pytest.mark.parametrize("tn", ["", "   ", "!!!", "<script>alert(1)</script>", "1"*200])
+@pytest.mark.parametrize("tn", ["23423432423423423", "", "   ", "!!!", "<script>alert(1)</script>", "1"*200])
 def test_tracking_invalid(api, tn):
     r = api.get(f"/shipments/track/{tn}")
     assert r.status in (400,404, 500, 429)
