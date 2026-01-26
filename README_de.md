@@ -1,4 +1,4 @@
-# Performance Testing (Task III)
+# Performance Testing
 
 Performance- und Lasttests werden mit k6 durchgeführt, um das Verhalten der Tracking-API unter realistischen und 
 erhöhten Lastbedingungen zu bewerten.
