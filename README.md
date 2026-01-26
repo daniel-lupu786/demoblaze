@@ -60,15 +60,10 @@ One log file per test run:
 artifacts/logs/test_run_YYYYMMDD_HHMMSS.log
 ````
 Logs include:
-
 - test-level messages (per-test logger)
-
 - browser console output
-
 - JavaScript runtime errors (pageerror)
-
 - failed network requests (requestfailed)
-
 - screenshot paths on failure
 ---
 ## Reporting & Artifacts
