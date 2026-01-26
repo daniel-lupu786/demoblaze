@@ -1,0 +1,19 @@
+{
+  "profile": "smoke",
+  "base_url": "https://tracking.bosta.co",
+  "thresholds": {
+    "http_req_duration": ["p(95)<300","p(99)<800"],
+    "http_req_failed": ["rate<0.01"],
+    "track_errors": ["rate<0.01"]
+  },
+  "results": {
+    "http_reqs_per_sec": 1.9941923504489607,
+    "http_failed_rate": 0,
+    "latency_ms": {
+      "p50": null,
+      "p90": 62.9283,
+      "p95": 69.3747,
+      "p99": null
+    }
+  }
+}

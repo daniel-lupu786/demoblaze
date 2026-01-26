@@ -1,0 +1,18 @@
+{
+  "profile": "load",
+  "base_url": "https://tracking.bosta.co",
+  "thresholds": {
+    "http_req_failed": ["rate<0.01"],
+    "track_errors": ["rate<0.01"],
+    "http_req_duration": ["p(95)<300","p(99)<800"]
+  },
+  "results": {
+    "http_reqs_per_sec": 19.949799663180375,
+    "tech_failures_rate": null,
+    "latency_ms": {
+      "p90": 80.9147,
+      "p95": 97.5558,
+      "p99": null
+    }
+  }
+}
